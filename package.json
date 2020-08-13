@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilodionisia/NodeJS-Knex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilodionisia/NodeJS-Knex/issues"
+  },
+  "homepage": "https://github.com/danilodionisia/NodeJS-Knex#readme",
+  "dependencies": {
+    "knex": "^0.21.4",
+    "mysql2": "^2.1.0"
+  }
+}
